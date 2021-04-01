@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\GoldBadgeChallenges\_Komodo Cafe_ConsoleApp\bin\Debug\_Komodo Cafe_ConsoleApp.exe.config
+C:\ElevenFiftyProjects\GoldBadgeChallenges\_Komodo Cafe_ConsoleApp\bin\Debug\_Komodo Cafe_ConsoleApp.exe
+C:\ElevenFiftyProjects\GoldBadgeChallenges\_Komodo Cafe_ConsoleApp\bin\Debug\_Komodo Cafe_ConsoleApp.pdb
+C:\ElevenFiftyProjects\GoldBadgeChallenges\_Komodo Cafe_ConsoleApp\obj\Debug\_KomodoCafe_ConsoleApp.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadgeChallenges\_Komodo Cafe_ConsoleApp\obj\Debug\_KomodoCafe_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadgeChallenges\_Komodo Cafe_ConsoleApp\obj\Debug\_Komodo Cafe_ConsoleApp.exe
+C:\ElevenFiftyProjects\GoldBadgeChallenges\_Komodo Cafe_ConsoleApp\obj\Debug\_Komodo Cafe_ConsoleApp.pdb
+C:\ElevenFiftyProjects\GoldBadgeChallenges\_Komodo Cafe_ConsoleApp\bin\Debug\_KomodoCafe_Repository.dll
+C:\ElevenFiftyProjects\GoldBadgeChallenges\_Komodo Cafe_ConsoleApp\bin\Debug\_KomodoCafe_Repository.pdb
+C:\ElevenFiftyProjects\GoldBadgeChallenges\_Komodo Cafe_ConsoleApp\obj\Debug\_KomodoCafe_ConsoleApp.csproj.CopyComplete

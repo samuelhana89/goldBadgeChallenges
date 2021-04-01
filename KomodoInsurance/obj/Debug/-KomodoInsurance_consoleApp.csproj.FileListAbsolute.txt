@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\GoldBadgeChallenges\KomodoInsurance\bin\Debug\KomodoInsurance.exe.config
+C:\ElevenFiftyProjects\GoldBadgeChallenges\KomodoInsurance\bin\Debug\KomodoInsurance.exe
+C:\ElevenFiftyProjects\GoldBadgeChallenges\KomodoInsurance\bin\Debug\KomodoInsurance.pdb
+C:\ElevenFiftyProjects\GoldBadgeChallenges\KomodoInsurance\bin\Debug\KomodoInsurance_Repository.dll
+C:\ElevenFiftyProjects\GoldBadgeChallenges\KomodoInsurance\bin\Debug\KomodoInsurance_Repository.pdb
+C:\ElevenFiftyProjects\GoldBadgeChallenges\KomodoInsurance\obj\Debug\-KomodoInsurance_consoleApp.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadgeChallenges\KomodoInsurance\obj\Debug\-KomodoInsurance_consoleApp.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadgeChallenges\KomodoInsurance\obj\Debug\-KomodoInsurance_consoleApp.csproj.CopyComplete
+C:\ElevenFiftyProjects\GoldBadgeChallenges\KomodoInsurance\obj\Debug\KomodoInsurance.exe
+C:\ElevenFiftyProjects\GoldBadgeChallenges\KomodoInsurance\obj\Debug\KomodoInsurance.pdb
